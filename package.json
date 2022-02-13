@@ -1,0 +1,26 @@
+{
+  "name": "mxgraph2pptx",
+  "version": "1.0.0",
+  "description": "Project to create PPTX slides from a mxgraph drawing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sispeks/mxgraph2pptx.git"
+  },
+  "keywords": [
+    "npm",
+    "mxgraph",
+    "ooxml",
+    "pptx",
+    "draw.io"
+  ],
+  "author": "Felix Hoffmann a.k.a. Sispeks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sispeks/mxgraph2pptx/issues"
+  },
+  "homepage": "https://github.com/Sispeks/mxgraph2pptx#readme"
+}
