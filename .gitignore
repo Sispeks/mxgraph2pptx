@@ -1,2 +1,6 @@
 .venv
 .vscode
+node_modules
+*.pptx
+package-lock.json
+*.js
